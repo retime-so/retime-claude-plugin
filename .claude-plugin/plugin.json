@@ -1,0 +1,16 @@
+{
+  "name": "retime",
+  "displayName": "Retime",
+  "version": "1.0.0",
+  "description": "Schedule meetings, manage bookings and create scheduling links in Retime from a conversation. Claude finds free slots, confirms time zones, and only books, moves or cancels after you say yes.",
+  "author": { "name": "Retime", "url": "https://retime.so" },
+  "homepage": "https://retime.so",
+  "repository": "https://github.com/CONFIRM-ORG/retime-claude-plugin",
+  "license": "MIT",
+  "keywords": ["scheduling", "calendar", "booking", "meetings", "appointments", "availability"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://retime.so",
+  "supportUrl": "https://retime.so/support",
+  "privacyPolicyUrl": "https://retime.so/privacy",
+  "termsOfServiceUrl": "https://retime.so/terms"
+}

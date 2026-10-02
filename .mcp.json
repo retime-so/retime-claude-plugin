@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "retime": {
+      "type": "http",
+      "url": "https://api.retime.so/mcp"
+    }
+  }
+}
