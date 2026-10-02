@@ -10,7 +10,7 @@
   "keywords": ["scheduling", "calendar", "booking", "meetings", "appointments", "availability"],
   "icon": "./assets/icon.png",
   "documentationUrl": "https://retime.so",
-  "supportUrl": "https://retime.so/support",
+  "supportUrl": "mailto:support@retime.so",
   "privacyPolicyUrl": "https://retime.so/privacy",
   "termsOfServiceUrl": "https://retime.so/terms"
 }

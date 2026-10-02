@@ -61,7 +61,7 @@ Claude is instructed to never book, reschedule, cancel, or create an event type 
 
 ## Support
 
-Questions or problems: https://retime.so/support. Plugin source: this repository.
+Questions or problems: support@retime.so. Plugin source: this repository.
 
 ## License
 
